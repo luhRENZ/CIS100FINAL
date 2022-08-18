@@ -9,7 +9,8 @@
   }
   
   p{
-    text-align: center;
+    text-align: lefts;
+    font-weight: bolder;
     letter-spacing: 1px;  
     font-size: 45px;
     margin-bottom: 20px;
